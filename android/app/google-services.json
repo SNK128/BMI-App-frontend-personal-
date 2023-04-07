@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819130451578",
+    "project_id": "bmi-project-e3d5d",
+    "storage_bucket": "bmi-project-e3d5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819130451578:android:53f3d3d2b1416811e7ddc3",
+        "android_client_info": {
+          "package_name": "com.example.crieya_works"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819130451578-k91kgcj4qt9jalhuqbqg1u1mvui1s3lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlGyoQ9bvTyxXxRSAxSnaAFym68SzNE2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819130451578-k91kgcj4qt9jalhuqbqg1u1mvui1s3lp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
