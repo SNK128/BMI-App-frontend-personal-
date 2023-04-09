@@ -2,8 +2,6 @@ import 'package:crieya_works/components/already_have_an_account_check.dart';
 import 'package:crieya_works/components/rounded_button.dart';
 import 'package:crieya_works/components/rounded_input_field.dart';
 import 'package:crieya_works/components/rounded_password_field.dart';
-import 'package:crieya_works/components/text_field_container.dart';
-import 'package:crieya_works/constants.dart';
 import 'package:crieya_works/screens/login/components/background.dart';
 import 'package:crieya_works/screens/signup/signup_screen.dart';
 
